@@ -1,6 +1,6 @@
 # ¡Hola! Soy Yordani Velázquez 👋
 
-### **Desarrollador Full Stack .NET | Especialista en ERP & POS | Administrador de Infraestructura**
+### **Desarrollador Full Stack .NET | Administrador de Infraestructura**
 
 <p align="center">
   <a href="https://linkedin.com/in/yordgnu83220388"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
