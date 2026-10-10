@@ -17,7 +17,6 @@ Ingeniero Informático con **8 años de experiencia** construyendo soluciones em
 Actualmente diseño y desarrollo **Vercom ERP**, un sistema integral de gestión empresarial para una S.U.R.L. cubana. Me apasiona la **arquitectura de software**, la **seguridad** y la **trazabilidad**, aplicando principios **SOLID**, **Clean Architecture** y **TDD** para crear sistemas robustos y mantenibles.
 
 - 🔭 Actualmente trabajando en **Vercom ERP** (Backend + App POS Android)
-- 🌱 Aprendiendo **Docker, CI/CD y arquitecturas Cloud**
 - 👯 Buscando colaborar en proyectos open source de **.NET** o **Kotlin**
 - 💬 Pregúntame sobre **C#, ASP.NET Core, EF Core, SQL Server, Kotlin o Jetpack Compose**
 - 📫 Contáctame en **yordanisvc@gmail.com**
@@ -104,17 +103,6 @@ ERP integral para una S.U.R.L. cubana con módulos de **contabilidad, inventario
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YordGNU&theme=dark&locale=es&hide_border=true" alt="Racha de YordGNU" />
-</p>
-
----
-
-## 📚 Actualmente aprendiendo
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=git&logoColor=white" alt="CI/CD" />
 </p>
 
 ---
